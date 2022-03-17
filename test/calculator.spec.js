@@ -2,7 +2,7 @@
 import React from 'react';
 import { expect } from 'chai';
 import { shallow } from 'enzyme';
-import App from './../src/js/app';
+import App from '../src/js/app';
 
 describe('App Component', function () {
   this.timeout(6500);
